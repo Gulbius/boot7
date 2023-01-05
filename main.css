@@ -1,0 +1,28 @@
+.cont{
+    background-color: aqua;
+    
+}
+.A1{
+    background-color: rgb(68,115,197);
+    height: 220px;
+   
+}
+.C{
+    background-color: rgb(255,192,0);
+    height: 240px;
+   
+}
+.A2{
+    background-color: rgb(68,115,197);
+    height: 80px;
+    border:2px ridge rgb(175, 171, 171);
+}
+.B{
+    background-color: rgb(165,165,165);
+   
+}
+.D{
+    background-color: rgb(112,173,70);
+    height: 60px;
+   
+}
